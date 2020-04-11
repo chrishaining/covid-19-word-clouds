@@ -56,11 +56,11 @@ The inclusion of the word `ve` on 9th April is odd and I don't know why it has a
 * Gather a wider range of texts and speakers
 * Rather than display data as word clouds, count the words.
 * Explore different aspects of the results, such as:
-                ⋅⋅* levels of positivity
-                  * levels of certainty
-                  * the timeframes the texts use (past, present, future)
-                  * the extent to which the texts focus on people, processes, and objects
-                  * how the texts describe the virus and the emergency (for instance, war imagery)
-                  * differences between the speakers
-                  * how the texts change over time (for example, do they get more positive over time?)
-                  * use of pronouns (for example, `you` and `us`).
+  * levels of positivity
+  * levels of certainty
+  * the timeframes the texts use (past, present, future)
+  * the extent to which the texts focus on people, processes, and objects
+  * how the texts describe the virus and the emergency (for instance, war imagery)
+  * differences between the speakers
+  * how the texts change over time (for example, do they get more positive over time?)
+  * use of pronouns (for example, `you` and `us`).
