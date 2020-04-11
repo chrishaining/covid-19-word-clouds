@@ -44,9 +44,13 @@ __9th April: Foreign Secretary Dominic Raab__
 ---
 
 ## Results
-The most prominent word across the three speeches is `people`. This was a surprise to me. I had thought that terms about the virus would be more prominent. The lack of prominence of direct reference to medical matters was also a surprise. `Virus`, `coronavirus`, NHS` and `test` are there, but they are not dominant. That may be due to the fact that the speeches were by the Foreign Secretary and Chancellor, rather than the Health Secretary.
+The most prominent word across the three speeches is `people`. This was a surprise to me. I had thought that terms about the virus would be more prominent.
 
-The inclusion of the word `ve` on 9th April was odd and I don't know why it appeared. `you've`, `we've`, `I've` and `they've` wee in the list of excluded words, so these don't seem to be the reason, and I haven't found anything in the text to explain why `ve` was in the cloud. As a short-term fix, I add `ve` to the list of excluded words.
+Another prominent word is  `will`. I had a quick look at the texts, and the main use is as a modal verb. This suggests a focus on the future.
+
+The lack of prominence of direct reference to medical matters was also a surprise. `Virus`, `coronavirus`, NHS` and `test` are there, but they are not dominant. That may be due to the fact that the speeches were by the Foreign Secretary and Chancellor, rather than the Health Secretary.
+
+The inclusion of the word `ve` on 9th April was odd and I don't know why it appeared. `you've`, `we've`, `I've` and `they've` were in the list of excluded words, so these don't seem to be the reason, and I haven't found anything in the text to explain why `ve` was in the cloud. As a short-term fix, I add `ve` to the list of excluded words.
 
 ---
 
