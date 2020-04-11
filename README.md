@@ -3,9 +3,9 @@
 A collection of word clouds taken from the speeches given by UK Government ministers in the daily press briefings.
 
 <p>
-  <img src="7thAprilwordCloud.png" title="7th April" alt="7th April: Dominic Raab" width="400" height="300"/>
-  <img src="8thAprilwordCloud.png" title="8th April" alt="8th April: Rishi Sunak" width="400" height="300"/>
-  <img src="9thAprilwordCloud.png" title="8th April" alt="9th April: Dominic Raab" width="400" height="300"/>
+  <img src="7thAprilwordCloud.png" title="7th April" alt="7th April: Dominic Raab" width="500" height="300"/>
+  <img src="8thAprilwordCloud.png" title="8th April" alt="8th April: Rishi Sunak" width="500" height="300"/>
+  <img src="9thAprilwordCloud.png" title="8th April" alt="9th April: Dominic Raab" width="500" height="300"/>
 </p>
 
 
