@@ -8,12 +8,6 @@ A collection of word clouds taken from the speeches given by UK Government minis
   <img src="9thAprilwordCloud.png" title="8th April" alt="9th April: Dominic Raab" width="425" height="350"/>
 </p>
 
-
-These word clouds are taken from transcripts of the opening speeches given by the ministers. The transcripts do not include:
-* speeches given by government advisers
-* the question-and-answer sessions involving the press
-* any speeches at the end of the briefing.
-
 ---
 
 ## Setup and Packages
@@ -31,6 +25,10 @@ The list of stopwords (words that are excluded from the clouds) is fairly short 
 
 The choice of speeches was determined by the availability of transcripts. Plus, due to time constraints, I limited myself to briefings from the past week. These choices mean that I only have texts from two people, Foreign Secretary Dominic Raab (two texts) and Chancellor Rishi Sunak (one text).
 
+The transcripts do not include:
+* speeches given by government advisers
+* the question-and-answer sessions involving the press
+* any speeches at the end of the briefing.
 ---
 
 ## Sources
@@ -48,7 +46,7 @@ __9th April: Foreign Secretary Dominic Raab__
 ## Results
 The most prominent word across the three speeches is `people`. This was a surprise to me. I had thought that terms about the virus would be more prominent. The lack of prominence of direct reference to medical matters was also a surprise. `Virus`, `coronavirus`, NHS` and `test` are there, but they are not dominant. That may be due to the fact that the speeches were by the Foreign Secretary and Chancellor, rather than the Health Secretary.
 
-The inclusion of the word `ve` on 9th April is odd and I don't know why it has appeared. `you've`, `we've`, `I've` and `they've` are in the list of excluded words, so these don't seem to be the reason, and I haven't found anything in the text to explain why `ve` was in the cloud.
+The inclusion of the word `ve` on 9th April was odd and I don't know why it appeared. `you've`, `we've`, `I've` and `they've` wee in the list of excluded words, so these don't seem to be the reason, and I haven't found anything in the text to explain why `ve` was in the cloud. As a short-term fix, I add `ve` to the list of excluded words.
 
 ---
 

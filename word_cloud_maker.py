@@ -12,6 +12,11 @@ title2 = "8th April"
 text3 = open("./texts/nine_april.txt", "r").read().lower()
 title3 = "9th April"
 
+text4 = open("./texts/nine_april.txt", "r").read().lower()
+title4 = "9th April 2"
+
+STOPWORDS.add("ve")
+
 def create_word_cloud(string, title):
    maskArray = np.array(Image.open("cloud.png"))
    cloud = WordCloud(background_color = "white", max_words = 200, mask = maskArray, stopwords = set(STOPWORDS))
