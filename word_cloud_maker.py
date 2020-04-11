@@ -4,13 +4,13 @@ import numpy as np
 from PIL import Image
 
 text1 = open("./texts/seven_april.txt", "r").read().lower()
-title1 = "7th April: Dominic Raab"
+title1 = "7th April"
 
 text2 = open("./texts/eight_april.txt", "r").read().lower()
-title2 = "8th April: Rishi Sunak"
+title2 = "8th April"
 
 text3 = open("./texts/nine_april.txt", "r").read().lower()
-title3 = "9th April: Dominic Raab"
+title3 = "9th April"
 
 
 
