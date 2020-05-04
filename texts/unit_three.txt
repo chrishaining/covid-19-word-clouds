@@ -1,0 +1,667 @@
+Unit 3: National Legal and Regulatory Frameworks
+1. The impact of the FATF Standards and Recommendations on domestic frameworks
+As we discussed in Unit 2, the global nature of money laundering and terrorist financing has required the formulation of global initiatives and standards to combat the risks and their continuing development. All anti money laundering (AML) professionals need to be aware of the international standards and to keep up to date with new initiatives, which provide an understanding of the background to national legal, regulatory and enforcement frameworks and to their own roles and responsibilities.
+Following two years of consultation among member countries, including an analysis of the issues arising from the third round of Mutual Evaluations, Financial Action Task Force (FATF) issued revised consolidated Recommendations and Interpretive Notes on 16 February 2012. Since July 2014, it is these revised Recommendations that have been used in evaluating member countries and jurisdictions.
+The most recent FATF Recommendations (consolidated back into the original number of 40 rather than the previous 40+9 ‘Special Recommendations’ that had been in place since October 2001) are intended to:
+z integrate counter terrorist financing with AML controls
+z introduce new measures to counter the financing of the proliferation of weapons of
+mass destruction, through the consistent implementation of UN sanctions
+z address the laundering of the proceeds of corruption more effectively than hitherto z expand the scope of the money laundering predicate offences by including tax crimes z introduce an enhanced risk-based approach to enable countries and the private
+sector to focus more efficiently on higher-risk areas
+z strengthen the requirements for higher-risk situations, including a risk-based
+approach to domestic politically exposed persons (PEPs)
+Learning objectives
+The purpose of this unit is to:
+z provide an understanding of the international regulatory framework
+z provide guidance on the nature of primary and secondary legislation and
+how this fits into the national frameworks
+z explain the regulators’ approach to the prevention of financial crime and
+the various bodies with which they work
+z describe and discuss the various offences of money laundering in
+major jurisdictions.
+ 65
+Unit 3: National Legal and Regulatory Frameworks
+z ensure that countries take a targeted risk-based approach through the formulation of an AML/counter financing of terrorism (CFT) country risk assessment
+z require that financial institutions and non-financial bodies and professions document their risk-assessment process so as to be able to demonstrate the basis on which this is done
+z improve transparency to make it harder for criminals and terrorists to conceal their identities or hide their assets behind legal persons and arrangements
+z introduce measures for more effective international cooperation, including joint investigations and tracing, freezing and confiscation of illegal assets
+z provide better operational tools, techniques, and powers for financial intelligence units (FIUs) and law enforcement.
+The Recommendations are split into seven sections.
+ A: R.1-R.2
+  Risk-based policies and assessments, national cooperation and coordination
+   B: R.3-R.4
+  Money laundering offences, confiscation and provisional measures
+   C: R.5-R.8
+  Terrorist financing offences and sanctions, financial sanctions related to proliferation measures concerning non-profit organisations
+   D: R.9-11
+R.12-16
+R.17-19
+R.20-21
+ Financial institution preventative measures including:
+R.9 Secrecy laws R.10 CDD
+R.11 Record keeping
+Enhanced due diligence
+R.12 PEPs
+R.13 Correspondent banking
+R.14 Money or transfer value services R.15 New technologies
+R.16 Wire transfers
+Reliance, controls and financial groups
+R.17 Reliance on third parties
+R.18 Internal controls and foreign branches/subsidiaries R.19 Higher risk countries
+Reporting
+R 20 Reporting of suspicious transactions R.21 Tipping off and confidentiality
+   R.22-23
+   Designated non-financial businesses and professions
+   E: R.24-25
+  Transparency and beneficial ownership
+   F: R.26-35
+ Regulation, supervision, law enforcement and sanctions for non-compliance
+  G: R.36-40
+   International cooperation
+ 66
+
+Unit 3: National Legal and Regulatory Frameworks
+The complete text of the revised FATF Recommendations and Interpretive Notes can be accessed through the FATF website (www.fatf-gafi.org).
+As stated in Unit 2, FATF standards are by their nature advisory and must be implemented by individual countries to give them effect. Within Europe this is achieved through the Money Laundering Directives and member state domestic legislation.
+Of note is that although all domestic AML/CFT frameworks use the international strategies and standards as their base, there are variations depending on the nature of their criminal justice systems and, in some cases, regional variations to deal with specific regional issues.
+2. US primary legislation and regulation
+The most significant AML laws and regulations in the US are the Bank Secrecy Act of
+1970 (BSA) and the Uniting (and) Strengthening America (by) Providing Appropriate Tools Required (to) Intercept (and) Obstruct Terrorism Act of 2001, more commonly known as the USA PATRIOT Act, or just Patriot Act.
+2.1 Bank Secrecy Act 1970
+The Currency and Foreign Transactions Reporting Act of 1970 (commonly referred to as Bank Secrecy Act or BSA), which was substantially amended by the Patriot Act in 2001, provides the basis for most of the preventative measures applied to the financial sector and other businesses. The Bank Secrecy Act was intended to prevent the use of secret foreign bank accounts and assist law enforcement agencies by legislating for regulatory reporting and record keeping by financial institutions.
+The Act requires US financial institutions, including branches and subsidiaries of foreign banks operating within the US, to:
+z file reports of cash transactions exceeding $10,000 (daily aggregate amount) (cash transaction reports – CTRs)
+z report suspicious activity that might signify money laundering, tax evasion, or other criminal activities (suspicious activity reports – SARs), and
+z maintain a paper trail by keeping appropriate records for financial transactions.
+It is interesting to note that the definition of ’financial institution’ in the BSA includes casinos.
+It was the BSA that introduced the CTR requirements for financial institutions. The CTR is a report that must be filed, in the appropriate format, on transactions greater than $10,000 made by one person in one business day (which must include ‘aggregated’ transactions where the financial institution believes they are on behalf of the same person).
+The types of transaction required to be reported include cash withdrawals and deposits, foreign currency exchange, cashing a cheque, cash payments, cash purchase of monetary instruments (drafts, money order, traveller’s cheques), ATM cash transactions and incoming/outgoing wire transfers paid in cash.
+67
+
+Unit 3: National Legal and Regulatory Frameworks
+2.2 The USA Patriot Act
+The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act 2001 (USA PATRIOT Act or just the ‘Patriot Act’) was signed by President George W. Bush on 26 October 2001, barely seven weeks after the September 11 terrorist attacks. A powerful, unusually speedy, reaction to the attacks, the Patriot Act, which comprises over 900 pages of legislation, has had far-reaching consequences for financial institutions both within the US and throughout the world.
+The Act made a number of significant enhancements to pre-existing US AML legislation, as well as imposing a raft of new obligations in relation to customer due diligence (CDD) procedures for US private banking and correspondent bank accounts involving non-US persons.
+The section (Title III), called the International Money Laundering Abatement and Anti- Terrorist Financing Act (2001), made significant changes to the money laundering regulations, imposing further requirements for AML programmes and expanding the coverage to certain non-bank financial institutions (e.g. trust companies, insurance companies and dealers in precious stones, metals and jewels, and pawnbrokers). It introduced the requirements for AML policies, procedures, and controls as well as the designation of ’compliance officer’ and the need for the training of staff and independent reviews of each financial institution’s AML regime.
+The Patriot Act introduced the need for certain financial institutions to have customer identification programmes (CIPs) for new customers as well as specifying enhanced due diligence (EDD) measures for correspondent banking and private banking customers, especially for non-US persons.
+The most significant requirements relating to AML/CFT and the provision of financial services covered in the Patriot Act concern a variety of special measures, the facilitation of cooperative AML measures, the prohibition of unlicensed money transmitters, and the creation of significant extraterritorial powers.
+2.2.1 Special measures
+The Act confers on the US Treasury the power to name foreign jurisdictions, financial institutions and transactions that are of primary money laundering concern and require financial institutions to implement ‘special measures’ for them. These special measures include:
+z additional record keeping for, and reporting of, certain transactions
+z the collection of information relating to beneficial ownership of accounts
+z the collection of information relating to certain ’payable through’ accounts (an
+account maintained by a respondent that permits the respondent’s customers to
+engage either directly or through a sub-account, in banking activities)
+z the collection of information relating to certain correspondent accounts
+z the prohibition of, or imposition of conditions on, the opening of correspondent or
+‘payable-through’ accounts.
+2.2.2 Cooperative efforts to deter money laundering
+These sections of the Act encourage, and create a formal process to enable, government agencies and financial institutions to share information on suspected money launderers and terrorists. The formal process enables the US FIU – FinCEN – to advise financial
+68
+
+Unit 3: National Legal and Regulatory Frameworks
+institutions about such suspects and require searches to be conducted for accounts of
+such persons. Additionally, it enables a financial institution to advise FinCEN of intentions
+to share information on suspected money laundering or terrorist financing with other financial institutions. (NB. This does not allow a financial institution to disclose the filing of a SAR although the underlying customer information and transactional data can be shared).
+2.2.3 The prohibition of unlicensed money transmitters
+Those involved in the informal value transfer system (IVTS), which is also referred to as the alternative remittance system (ARS), are deemed to be money service businesses (MSBs) and liable to be licensed and be in compliance with all AML requirements. Failure to comply is deemed to be money laundering.
+2.2.4 The extraterritorial reach of the Patriot Act
+Perhaps the most significant aspects of the Patriot Act for both non-US institutions and persons are as follows.
+z US banks must take reasonable steps to identify the beneficial owners of accounts beneficially owned by foreign persons.
+z US banks must identify foreign persons whose funds move through payable or correspondent bank accounts held with them.
+z US banks must sever correspondent banking relationships with all foreign shell banks. z US banks must apply EDD for all foreign private banking customers and
+international correspondent accounts and for correspondent relationships with offshore banks and banks in jurisdictions deemed to be non-cooperative in the international effort against money laundering.
+z The Act extends the ‘long-arm jurisdiction’ of the US courts over any person or organisation that commits a money laundering offence involving a financial transaction that occurs in the US.
+z The Act extends the extraterritorial criminal jurisdiction of the US over any person outside the jurisdiction who engages in any act involving US currency which, if it had been committed in the US, would constitute an offence.
+With the exception of the extension of the ‘long-arm civil jurisdiction’ and the extraterritorial criminal jurisdiction of the US courts, most of the provisions contained within the Patriot Act are likely to have an impact upon foreign institutions and individuals only in the form of increased requests by US institutions for additional information on the identity of beneficial owners.
+The Patriot Act’s long-arm civil jurisdiction and extraterritorial criminal jurisdiction measures can, however, have severe consequences for institutions and employees outside the US, even where such institutions do not have a physical or representative presence within the US.
+Section 317 of the Patriot Act provides that jurisdiction is now granted over any foreign person, including any financial institution authorised under the laws of a foreign country, in circumstances where such a person commits any offence involving a financial transaction that occurs either in whole or in part in the US.
+Given that the US dollar is used in the majority of the world’s financial transactions, the risks posed by these provisions of the Patriot Act are significant. Because all US dollar
+69
+
+Unit 3: National Legal and Regulatory Frameworks
+transactions must be cleared through the New York dollar clearing centre, this provides the US with sufficient authority over those transactions to be able to take action against any institution that unwittingly launders funds through the US dollar clearing system.
+The Patriot Act’s most controversial provision is in section 319, which states that:
+If funds are deposited into an account at a foreign bank and that foreign bank has an interbank account in the United States...the funds shall be deemed to have been deposited into the interbank account.
+The effect is that any seizure warrant for those funds may be served on the (US) financial institution and funds deposited into the foreign bank account may be seized. The seized money need not be related to the suspected criminal funds deposited in the foreign bank overseas.
+The US courts have demonstrated a willingness to issue subpoenas on US branches of foreign banks where they require information held outside the US. In some instances they have subpoenaed officers of foreign banks upon their entrance into the US.
+An amendment to the Patriot Act allows federal prosecutors, as well as state and federal regulators, to obtain court-appointed federal receivers in laundering and terrorist financing cases. These receivers have the authority to run independent investigations to track down assets and can seize assets to satisfy civil penalties and compensate victims of crimes.
+2.3 Other related AML/CFT legislation
+In addition to the BSA and the Patriot Act, there are several other related money laundering laws in the US.
+The Money Laundering and Financial Crimes Strategy Act (1998) made money laundering a criminal offence with penalties of up to 20 years’ imprisonment and $500,000 in fines.
+It prohibited the ‘structuring’ of a transaction to avoid CTR requirements and introduced what became known as the High Intensity Financial Crime Area (HIFCA) programme, which designated certain areas – defined by geography, industry, sector or institution – as ‘high risk’ for money laundering and related financial crime.
+The Anti-Drug Abuse Act (1988) enabled the seizure of assets related to money laundering and also introduced the ability for law enforcement to ‘represent’ the source of funds involved in a transaction as the proceeds of unlawful activity (i.e. the ability for law enforcement to ‘sting’ suspected launderers).
+The Annunzio–Wylie Anti Money Laundering Act (1992) gave protection from civil liability to any financial institution (and its employees) that filed a SAR. It made it illegal to disclose when a SAR is filed. It also introduced a requirement that bank regulators consider revoking a bank’s licence should that bank be found guilty of, or plead guilty to, money laundering.
+The Money Laundering Suppression Act (1994) specifically addressed MSBs and required them to be registered, and allowed banks to exempt certain customers from the CTR regime.
+The Intelligence Reform and Terrorism Prevention Act (2004) amended the BSA in order that the US Treasury could prescribe regulations requiring financial institutions to report cross-border electronic transmission of funds.
+70
+
+Unit 3: National Legal and Regulatory Frameworks
+The US’s 2006 Mutual Evaluation exposed the extent of the deficiencies in its AML strategy, particularly in respect of identification and verification of beneficial ownership requirements and the extension of the requirements to designated non-financial businesses or professions (DNFBPs). Nonetheless, as with all the major FATF members, a number of the criticisms
+were watered down in the final report. A principal concern remains that US lawyers and accountants, in particular, have still not been brought with the scope of the AML regime. Currently there are no plans to bring them within the scope, although provisions within the Patriot Act could be used to include lawyers when performing certain functions, and persons involved in real estate settlements.
+The International Monetary Fund (IMF) Financial Sector Assessment Program (FSAP) Report advised that:
+As of March 2010, many of the recommendations made by the evaluators to address the identified deficiencies had not been addressed in full or in part, but efforts are underway, notably to introduce uniform legislation that would require information on beneficial ownership and control of legal persons and arrangements across all states...However, to date no primary obligation has been introduced requiring financial institutions to identify beneficial owners of accounts.
+In November 2012 the US Department of Treasury announced that it would be reviewing US money laundering legislation, regulations and rules ‘to correct gaps, redundancies and inefficiencies in the framework’.
+This initiative came in the wake of a number of high-profile cases against financial institutions. In 2011, the total number of AML enforcement fines in the US rose by 67%. The number of BSA enforcement fines issued by the Office of the Comptroller of the Currency (OCC), Federal Deposit Insurance Corp (FIDC), Federal Reserve, FinCEN and the now defunct Office of Thrift Supervision (OTS) totalled 15 for the year, up from 9 in 2010.
+US banks and other financial institutions are accustomed to a ‘rules-based’ environment. Consequently they have struggled with the risk-based approach and the related CDD requirements, the EDD requirements for PEPs and with documenting SAR processes, customising training and ensuring robust independent testing. Complete beneficial ownership requirements have not yet been introduced. Recent enforcement actions have led to warnings to senior management that they will be regarded as responsible for their institution’s failures to comply with AML rules. The orders generally require the board members to increase
+their participation in the affairs of the bank and, in some cases, to reinforce their senior management teams under the supervision and final approval of the regulator.
+A report published in April 2013 by the US Senate Caucus on International Narcotics Control recommended stronger enforcement of AML laws by the Department of Justice (DOJ). The report argues that failures by large American banks to comply with the AML laws, and the DOJ’s failure to indict the banks, sends the signal that the US banking system is open to business for criminals seeking to launder their money.
+2.4 Key US regulatory and law enforcement authorities
+The Financial Crimes Enforcement Network (FinCEN), delegated by the Secretary of the Treasury, and the other primary federal regulators or self-regulatory organisations (e.g. Financial Industry Regulatory Authority – FINRA – and the US Securities Exchange
+71
+
+Unit 3: National Legal and Regulatory Frameworks
+Commission – SEC) have the authority to assess civil penalties. Owing to the federal arrangements in the US there are also state regulatory agencies such as the New York State Department of Financial Services55 which was created in 2011 by transferring the functions of the New York State Banking Department and the New York State Insurance Department into a new department. Prior to this, the New York State Banking Department (created by the New York Legislature on 15 April 1851) was the oldest bank regulatory agency in the United States, and could also impose civil penalties.
+Any criminal proceedings would be determined through legal proceedings at state or federal level and the DOJ can institute criminal and civil actions as well as forfeitures.
+Other significant regulatory bodies include:
+z FRB – Board of Governors of the Federal Reserve System – banks and trust companies in the Federal Reserve System
+z FDIC – Federal Deposit Insurance Corporation – banks not in the Federal Reserve System z OCC – Office of the Comptroller of Currency
+z CFTC – Commodity Futures Trading Commission (for US commodity futures and
+options markets
+z NYSE – New York Stock Exchange.
+Other US authorities that establish AML and CFT policy and strategy include: z OFAC – Part of the US Treasury (and see Unit 1 section 3.6)
+z AFMLS – Asset Forfeiture and Money Laundering Section – Part of DOJ.
+The agencies responsible for combating money laundering and terrorist financing are:
+z DEA – Drug Enforcement Agency
+z FBI – Federal Bureau of Investigation
+z ICE – Immigration and Customs Enforcement (part of Homeland Security) z CBP – Customs and Border Protection (part of Homeland Security)
+z IRS-CI – Internal Revenue Service Criminal Investigation.
+FinCEN acts as the FIU for the US as well as supporting law enforcement through the collection, analysis and sharing of information obtained through the SAR and CTR processes. It has, for example, set up the Law Enforcement and Financial Institution Information Sharing system enabling both the sharing of information among financial instiutions and feedback to FinCEN.
+FinCEN may also issue enforcement notices for violations of the BSA and the Patriot Act, either jointly (with another regulator) or unilaterally. It has entered into memorandums
+of understanding (MoUs) with a number of federal state banking regulators (e.g. NYSBD). These MoUs are related to the administration of the BSA, and the provision of information related to ‘significant’ BSA compliance issues in banking organisations. They also allow FinCEN to issue its own enforcement actions. For example, a banking organisation that has been identified as having committed BSA violations, including some related to SARs, could be subject to enforcement action by the state regulator for, perhaps, CIP-related issues as well as by FinCEN for, say, late filing of SARs.
+55. New York State, Department of Financial Services: http://www.dfs.ny.gov/ – accessed September 2019
+72
+
+Unit 3: National Legal and Regulatory Frameworks
+2.4.1 US enforcement action
+The types of enforcement action vary depending on the seriousness of the alleged violations.
+z Commitment letter – a bank’s board of directors agrees to take certain action – not legally binding but failure to fulfil the commitment could result in more serious enforcement.
+z MoU – an agreement between bank’s board of directors and the regulator(s) to take action – again not legally binding or in the public domain.
+z Formal Agreement – an agreement by a bank’s board of directors to take action: failure to do so can provide a legal platform for assessing monetary penalties against directors and others.
+z Consent Order or Order to Cease and Desist – generally more serious violations
+of BSA and another type of agreement with a bank’s directors to rectify issues identified. Again, failure to comply may result in a monetary penalty. This seems to be a growing option favoured by the US regulators, as demonstrated by two high- profile cases where banks have been served with such orders.56
+z Civil Monetary Penalty – a penalty against a bank or individual for violation of a regulation or law or failure to act as required under the agreements detailed above.
+z ’Death Penalty’ – revocation of licence. Under the Annunzio–Wiley Act (see section 2.3 above) regulators must consider this possibility where a bank is found guilty of, or pleads guilty to, money laundering.
+Other than the above penalties from the regulatory bodies, a bank could be prosecuted or (as has been the case with Wachovia Bank) be subject to a deferred prosecution agreement. The Wachovia case is also interesting as it highlights the ability for multi-agency/authority penalties. The DOJ agreed a deferred prosecution with a penalty of $110 million, a Cease and Desist order and a civil monetary penalty of $50 million with the OCC. It also agreed a $110 million civil monetary penalty with FinCEN.
+Other significant enforcement actions have since followed with a number of banks fined for not meeting US regulatory requirements.
+HSBC US and HSBC Mexico
+In July 2012 a US senate committee had accused HSBC of providing a conduit for ‘drug kingpins and rogue nations’. The Senate Committee’s report focused on $7 billion shipped by the bank from Mexico to the US between 2007 and 2008. The report has led to a US DOJ investigation into the monitoring and dollar clearing services operations of HSBC Group.
+In particular, a report for the Senate Permanent Subcommittee on Investigations included the following findings.
+z HSBC US (HBUS) failed to review thousands of internal AML compliance alerts
+or to generate SARs on transactions highlighted by its internal monitoring system. By May 2010, the bank’s backlog of alerts was nearly 50,000 and ‘growing exponentially each month’.
+56. Office of the Comptroller of the Curency, 'OCC Issues Cease and Desist Order Against Citybank, N.A.', 5 April 2012: http://www.occ.gov/news-issuances/news-releases/2012/nr-occ-2012-57.html – accessed September 2019
+73
+
+Unit 3: National Legal and Regulatory Frameworks
+z HSBC Mexico (HSMX), operating in a country ‘under siege from drug crime, violence and money laundering’, had inadequate AML controls. HBUS classified Mexico as a low-risk country and therefore failed to apply enhanced monitoring.
+z Hundreds of billions of dollars moved unchecked each year through various bank operations because of lax due diligence and monitoring of accounts with foreign correspondent banks. The bank maintained accounts with ‘high-risk’ affiliates such as Mexican casas de cambios – widely suspected of laundering drug-proceeds – and some Mexican and South American banks.
+z Mexico’s Sinaloa cartel and Colombia’s Norte del Calle cartel between them laundered $881 million through HSBC and its Mexican subsidiary.
+On the back of this, HSBC agreed (in 2012) to pay a settlement of $1.9 billion.
+Standard Chartered Bank (August 2012)
+Standard Chartered Bank agreed to pay a $340 million settlement to New York regulators and a further fine of $227 million to the US DOJ. In addition, Standard Chartered is required to comply with a full Cease and Desist order relating to its compliance with US economic sanctions, the Bank Secrecy Act, and other AML requirements. The key outcomes of the report by the US DOJ were that:
+z Standard Chartered was labelled a ‘rogue institution’ by the US regulators and threatened with having its US banking licence revoked
+z the bank was accused of falsifying payment instructions totalling almost $250 billion in the period between 2001 and 2007 by stripping the messages of data that would indicate that the clients were Iranian.
+In August 2014 Standard Chartered agreed to pay a further $300 million (£180 million) to New York’s top banking regulator for failing to improve its money laundering controls and was also banned from accepting new dollar clearing accounts without the state’s approval.
+This penalty came after the bank failed to fix the problems identified in 2012.
+In December 2015 the deferred prosecution agreement reached with the State of New York was extended for a further three years.
+Commerzbank AG
+In 2015 German banking giant Commerzbank agreed to pay $1.45 billion in fines after it was caught processing thousands of transactions that funnelled billions of dollars from sanctioned entities.
+Bank employees were said to have helped facilitate transactions for sanctioned clients such as Iran and Sudan. Some were fired as result of the inquiry and fine.
+The fine paid by the bank included varying fines to the The New York Department for Financial Services, US DOJ, the Federal Reserve and other investigators.
+74
+
+Unit 3: National Legal and Regulatory Frameworks
+2.5 Lessons from enforcement actions
+All AML/CFT enforcement cases provide money laundering officers with critical information against which they may ‘benchmark’ their own firm’s AML/CFT regime.
+Companies that have fallen foul of regulators have typically proved to have:
+z inadequate risk assessments, which are then applied to ongoing monitoring, including transaction monitoring
+z lack of experienced staff
+z inadequate resources devoted to AML/sanctions compliance
+z inadequate CDD procedures, including data integrity on systems
+z lack of a management information system (MIS), especially in relation to SARs and a
+lack of analysis of management information by senior management z an over-reliance on software.
+3. United Kingdom
+The UK’s AML and CFT legal and regulatory model is divided into four parts: primary legislation, secondary legislation, regulatory rules for supervision and industry guidance and best practice.
+3.1 Primary legislation: The Proceeds of Crime Act 2002
+The legislation that criminalises the laundering of criminal ‘property’ and provides associated ‘regulated’ offences is the Proceeds of Crime Act 2002, more commonly referred to as PoCA. PoCA sets out the details of the following money laundering offences in the UK.
+z Section 327: the offences of concealing, disguising, converting, transferring or removing criminal property from the jurisdiction.
+z Section 328: entering into or becoming concerned in an arrangement, knowing or suspecting that it facilitates the acquisition, retention, use or control of criminal property by or on behalf of another person.
+z Section 329: acquisition (without adequate defence), use or possession of criminal property.
+Any of the above offences are punishable on conviction by a maximum of 14 years’ imprisonment and/or an unlimited fine. PoCA covers all criminal offences where a benefit is gained for any person(s). There is no de minimis limit and no distinction between serious and less serious criminal offences.
+Sections 330 (general employees) and 331 (the Nominated Officer) cover the offences of failure to report. It is the duty of all those working in the regulated sector to report all suspicions of money laundering. The maximum penalty for failure to disclose is five years’ imprisonment and/or an unlimited fine.
+Section 333 covers prejudicing an investigation or ‘tipping off’, i.e. the criminal offence of tipping off now detailed in section 333A of PoCA, which applies only to the regulated sector; there are two tipping off offences in S333A of POCA:
+75
+
+Unit 3: National Legal and Regulatory Frameworks
+z S333A(1) – disclosing a Suspicious Activity Report (SAR). It is an offence to disclose to a third person that a SAR has been made by any person to the police, HM Revenue and Customs, the National Crime Agency (NCA) or a nominated officer, if that disclosure might prejudice any investigation that might be carried out as a result of the SAR. This offence can only be committed:
+z after a disclosure to the NCA or a nominated officerif you know or suspect that by disclosing this information, you are likely to prejudice any investigation related to that SAR
+z the information upon which the disclosure is based came to you in the course of business in the regulated sector
+z S333A(3) – disclosing an investigation. It is an offence to disclose that an investigation into a money laundering offence is being contemplated or carried out if that disclosure is likely to prejudice that investigation. The offence can only be committed if the information on which the disclosure is based came to the person in the course of business in the regulated sector.
+It is important to understand that, in relation a s333A(3) offence this can be committed even where you are unaware that a SAR was submitted.
+The penalty for the offence of ‘tipping off’ is a maximum period of two years’ imprisonment and/or an unlimited fine.
+3.2 Secondary legislation
+The Money Laundering Regulations 2007
+A significant change to the UK regulatory landscape occurred with the implementation of the 2007 Money Laundering Regulations (the 2007 Regulations) which came into effect
+on 15 December 2007. In line with the Third EU Money Laundering Directive (3MLD), the Regulations introduced a risk-based approach with targeted new measures and enhanced CDD requirements to be applied where the risks are greatest, for example:
+z where the customer is a PEP (see Unit 5, section 4.4)
+z where there is a correspondent banking relationship (see Unit 5, section 4.5).
+The 2007 Regulations applied to all financial business and non-financial businesses (designated non-financial Business and Persons or ‘DNFBPs’) carrying out relevant business (collectively referred to as ’the regulated sector’); designated supervisory authorities were allocated to each part of the sector.
+Those businesses operating in the regulated sector were required to have in place policies and procedures to comply with the Regulations, which included:
+z CDD measures and monitoring, including procedures to determine whether a customer is a PEP
+z reporting to a nominated officer where there is knowledge, suspicion or reasonable grounds to suspect that a person is engaged in money laundering or terrorist financing
+z record keeping
+76
+
+Unit 3: National Legal and Regulatory Frameworks
+z internal control, including policies and procedures that have additional measures for products and transactions that might favour anonymity
+z risk assessment and management
+z the monitoring and management of compliance with, and internal communication
+of, such policies and procedures
+z staff awareness and training
+z policies and procedures that provide for the identification and scrutiny of:
+z complex or unusually large transactions
+z unusual patterns of transactions that have no apparent economic or visible
+lawful purpose, and
+z any other activity that may be related to money laundering or terrorist financing.
+Failure to comply with any of the requirements of the regulations constituted an offence punishable by up to two years’ imprisonment (for the directors or senior managers), or a fine, or both.
+The Money Laundering, Terrorist Financing and Funds Transfer (Information on the Payer) Regulations 2017 (‘MLR 2017’)
+On 26 June 2017, the Money Laundering Regulations 2007 were superseded by the MLR 2017.
+The MLR 2017 are not a total change from the MLR 2007; instead they constitute an evolution of content and a reorganisation of structure and improve upon and plug identified gaps in MLR 2007, including:
+z changing the approach to CDD
+z the prevention of new means of terrorist financing, including through e-money and
+prepaid cards
+z improving transparency of beneficial ownership of companies and trusts z effective enforcement of sanctions.
+Key changes in MLR 2017:
+z General risk assessment: MLR 2017 is more prescriptive than MLR 2007, particularly when it comes to risk mitigation procedures.
+z Risk mitigation policies: Policies and controls must be documented, be proportionate to the risks identified and be approved by the relevant person’s senior management.
+z Level of due diligence: MLR 2017 restricts the circumstances in which simplified due diligence (SDD) may be performed. In one area where there is a significant departure from MLR 2007, there are no longer ‘automatic’ SDD requirements for any transactions.
+z Reliance on third parties: Relevant persons are still able to rely on the CDD carried out by a third party if that third party is either subject to the MLR 2017 or an equivalent regime subject to increased prescription.
+z PEPs: The parts of MLR 2007 which applied only to foreign PEPs now also apply
+to domestic PEPs. This in practice means EDD requirements for a broader range
+of individuals who have been trusted with prominent public functions both in the UK and overseas. The UK stance on this is one of proportionality and the Financial Conduct Authority (FCA) has issued supplementary guidance regarding how to treat domestic PEPs.
+77
+
+Unit 3: National Legal and Regulatory Frameworks
+z New criminal offence: it is an offence for any individual to recklessly make a statement in the context of money laundering, punishable by a fine and/or up to 2 years’ imprisonment
+3.2.1 HM Treasury
+HM Treasury is responsible for policy and legislation on AML and CFT systems and controls for the regulated sector, e.g. financial institutions, accountants, estate agents, lawyers, high-value dealers, casinos. It is therefore responsible for sponsoring and issuing the UK secondary legislation, i.e. the Money Laundering Regulations 2017, which is designed
+to implement the requirements of the FATF Recommendations and the European Union Money Laundering Directives.
+In respect of the regulated sector, under PoCA and the Money Laundering Regulations, HM Treasury approves guidance notes produced by industry bodies. The body through which such guidance notes are considered and recommended for approval is the Money Laundering Advisory Committee (MLAC), which is jointly chaired by HM Treasury and the Home Office.
+The remit of MLAC is to provide a forum in which key private and public stakeholders may coordinate the AML regime and review its efficiency and effectiveness.
+HM Treasury also leads for the UK with the relevant international bodies, including negotiation of international AML regulatory standards within FATF and the EU. HM Treasury is therefore at the forefront of the UK’s strategy in the fight against money laundering and financial crime.
+3.3 Industry and professional guidance
+The AML obligations imposed upon businesses in the UK by the legislation and regulators are high-level in nature, requiring detailed practical interpretation in the context of different industry sectors and specific products and services. UK regulations permit firms to rely upon, and to be guided by, practical explanatory guidance that is issued by the relevant trade or industry associations or self-regulatory bodies and approved by HM Treasury.
+The principal AML/CFT guidance is issued by the Joint Money Laundering Steering Group (JMLSG).57 The JMLSG is made up of the leading UK financial sector trade associations. Its aim is to promote good practice in countering money laundering and to give practical assistance in interpreting the UK Money Laundering Regulations. Other approved guidance is issued by, for example, HMRC, the Law Society and the Consultative Committee of Accountancy Bodies.
+While not legal binding in its own right, Treasury-approved guidance has quasi-legal status and must be taken into account by the courts when determining if a breach of the Regulations has occurred.
+3.4 Financial Conduct Authority supervisory rules and enforcement
+In April 2013 the UK introduced a new ’twin peaks’ regulatory system for financial services in the UK. For the purpose of AML/CFT regulatory requirements, the FCA replaced the
+57. JMLSG: http://www.jmlsg.org.uk/ – accessed September 2019
+78
+
+Unit 3: National Legal and Regulatory Frameworks
+previous regulator, the Financial Services Authority (FSA) and is accountable directly to both the UK Parliament and HM Treasury.
+The FCA is responsible for ensuring that the relevant UK markets function well, and for the conduct supervision of financial services firms. The FCA is also responsible for prudential supervision of firms not supervised by the Prudential Regulatory Authority (PRA), the other arm of the twin peaks regulatory approach.
+One of the key roles of the FCA is to regulate and supervise firms so as to reduce financial crime, including money laundering. The FCA has adopted the previous FSA role of devising and enforcing the rules applicable to FCA regulated firms, including rules requiring firms to have effective systems and controls that will reduce the opportunity for financial crime.
+The FCA has reissued and adapted the previous FSA Handbook. The Handbook requires that all relevant firms have adequate AML systems and controls in order to reduce the opportunity for criminals to use such firms to support their criminal activities, including money laundering, and to ensure that relevant individuals fulfil the minimum levels of expected professional standards and competence. These rules include the requirement for the appointment of a member of the board or senior management to take responsibility for the firm’s systems and controls for preventing money laundering, and the appointment of an money launderinger reporting officer (MLRO) to undertake Significant Management Function SMF17 (previously referred to as Control Function (CF) 11) and to oversee the firm’s AML compliance and reporting requirements.
+A key part of the FCA’s AML/CFT programme is carrying out product or sector or risk specific thematic reviews, to assess how well firms identify and mitigate the money laundering risks they face, as well as providing guidance on good and poor practice. Such AML thematic reviews include those on banks’ management of situations that present a high risk of money laundering (June 2011); banks’ defences against investment fraud (June 2012); banks’ control of financial crime risks in trade finance (June 2013); and AML and anti-bribery and corruption controls in asset management and platform firms (October 2013) and how small banks manage money laundering and sanctions risk: update (November 2014).
+Relevant firms are expected to take these reviews into consideration and benchmark their own activity, policies and procedures against practices identified as good, and especially, poor.
+The FCA has a clear mandate, as an enforcement authority, to pursue prosecutions, issue fines, ban individuals from financial services and prevent future financial crimes. The rules and guidance outlined in the FCA Handbook provide the basis for supervision and enforcement.
+The FCA’s first action in this respect was to publish the FSA’s Final Notice in respect of EFG Private Bank and to fine the bank £4.2 million for breaches of the Handbook’s Principle 3 (management and control) because it had failed to take reasonable care to establish and maintain effective AML systems and controls in relation to its higher-risk clients.
+The FSA had previously fined Coutts and Co, Habib Bank AG Zurich (together with its MLRO), and Turkish Bank (UK) for similar failings. The enforcement actions all arose out of the 2010/11 Thematic Review, which focused on how banks manage money laundering risk in higher-risk situations.
+79
+
+Unit 3: National Legal and Regulatory Frameworks
+In total during 2012, the FSA handed out fines totalling £321 million, more than triple the previous annual maximum of £89 million. This was exceeded in 2013 by FSA/FCA fines totalling a record £476,074,275. The last fine of 2013 was of £1,876,000 exacted in December from JLT Speciality Limited for failures in bribery and corruption controls in respect of overseas introducers.
+The first fine of 2014, totalling £7,640,400 was paid by Standard Bank for ‘serious weaknesses’ in the management of corporate customers who were linked to PEPs and the total amount of fines up to end December 2014 was £1,471,431,800.
+In the first half of 2015, the FCA imposed more than £800 million of fines on banks and other companies – the City regulator handed out fines worth £819 million in the six months to the end of June, up from £136 million in the same period a year earlier. Year-end figures show that by end December 2015 total amount of fines was £905,219,078 – considerably less than the previous year but still a significant figure.
+During the calendar year ending 2016, the total amount of fines was £22,216,446 with no significant enforcement action for breaches of the UK money laundering requirements – but this does not mean there is not significant regulatory scrutiny in this area. Indeed the UK regulatory is making use of other ‘tools’ in its regulatory toolkit such as the (FSMA) s166 skilled persons review.58
+During the calendar year ending 2017 the total amount of fines was £229,515,303 – again with the focus less on AML than market abuse but in the year 2016/2017 there were 49 s166 skilled persons reviews commissioned by the FCA with 29 commissioned in 2017/2018.
+During the calendar year ending 2018, the total amount of fines was £60,467,212.
+3.5 Key UK law enforcement authorities
+The Serious Organised Crime Agency (SOCA) was established by the Serious Organised Crime and Police Act 2005 (SOCPA) and brought together:
+z the National Criminal Intelligence Service (NCIS) and the National Crime Squad (NCS), and
+z the investigative and intelligence work of HM Revenue & Customs relating to serious drug trafficking and the recovery of related criminal assets.
+The Agency also included specialist civilian investigators such as accountants, financial analysts and computer experts.
+From 7 October 2013 the NCA59 replaced SOCA to become the new operational crime- fighting agency for the UK. The NCA leads the fight against the estimated60 37,317 criminals in 4,542 groups involved in serious crime in the UK which is estimated to cost approximately £37 billion per year. It has a strategic role, attempting to look at the bigger picture of organised crime in the UK, how it operates and how it can be disrupted. It
+58. FCA, 'Skilled person reviews', 21 March 2016: https://www.fca.org.uk/about/supervision/skilled-persons-reviews – accessed September 2019
+59. NCA: http://www.nationalcrimeagency.gov.uk/ – accessed September 2019
+60. NCA, National Strategic Assessment of Serious and Organised Crime, 2019: https://nationalcrimeagency.gov.uk/who-
+we-are/publications/296-national-strategic-assessment-of-serious-organised-crime-2019/file – accessed September 2019
+80
+
+Unit 3: National Legal and Regulatory Frameworks
+brings together intelligence on all types of serious and organised crime, prioritises crime groups according to the threats they present and, in conjunction with police forces, leads, coordinates and supports operational activities. The NCA is staffed by more than 4,000 ‘triple-warranted’ officers who each wield the combined powers of a constable, an immigration officer and a customs officer. The Head of the NCA reports directly to the Home Secretary and has significant powers to compel police forces within England and Wales to provide assistance and carry out policing operations.
+The NCA also acts as the UK FIU for the reporting of suspicious transactions and activity. As such, it receives, analyses and disseminates disclosures of financial information about suspected proceeds of crime, in order to counteract money laundering.
+SARs from the ‘Regulated Sector’ are an important source of intelligence that can be used by the authorities to track and recover the proceeds of crime.
+3.6 The UK as a high-risk jurisdiction
+In respect of corruption and money laundering the Executive Summary of the UK National Strategic Assessment of Serious and Organised Crime published by the NCA in May 2014 stated that:
+Corruption is a key cross-cutting issue, the impact of which is disproportionate to the level and frequency at which it occurs, with serious ramifications in terms of confidence towards the public and private sectors and in undermining the trust in government. Proceeds of corruption and bribery amounting to millions of pounds from some international politically exposed persons (PEPs) have been laundered through the UK financial systems including banks and investment property. The scale of the laundering of criminal proceeds, despite the UK’s leading role in developing international standards to tackle it, is a strategic
+threat to the UK’s economy and reputation. Some of the same financial transfer systems used by serious and organized criminals in the UK are also used by terrorist groups both domestically and overseas. The UK and its dependent territories are believed to have been the destination for billions of pounds of European criminal proceeds.
+International bribery and corruption continued to be a recurring theme throughout 2015, 2016 and 2017 and continues to remain a significant threat to the prosperity of the UK.
+It should be noted that the exploitation of the vulnerable, primarily child sexual abuse, modern slavery and organised immigration crime are a key focus as indicated in the NCA’s 2019 UK National Strategic Assessment of Serious and Organised Crime.61
+According to the NCA, all of the most serious crime threats faced by the UK are transnational in scope. Commodities of all types – including, for example, trafficked people destined for modern slavery, intangibles targeted in fraud and cybercrime – either come from or transit through often unstable countries. Corruption in these countries both feeds off the proceeds of the crime and contributes in turn to instability. The criminal exploitation of corrupt and unstable governments or countries can directly threaten UK national security.
+61. NCA, National Strategic Assessment of Serious and Organised Crime
+81
+
+Unit 3: National Legal and Regulatory Frameworks
+4. Examples of other jurisdictions
+4.1 The Jersey strategy on money laundering and terrorist financing
+Jersey has a vibrant and successful international financial services industry and a comprehensive framework of legislation dealing with AML and CFT. This legislation applies to all persons in Jersey, all persons operating from within the Island of Jersey, and all companies and limited liability partnerships registered in Jersey conducting activities in any part of the world. Much of the legislative framework creates obligations for the Jersey financial sector. Paragraph 4 of the Handbook for the Prevention and Detection of Money Laundering and Financing of Terrorism provides:
+Every relevant person in Jersey must recognise the role that it must play in protecting itself, and its employees, from involvement in money laundering and the financing of terrorism, and also in protecting the Island’s reputation of probity.
+In October 2008, the Jersey AML and CFT Strategy Group published An Island Strategy to Counter Money Laundering and the Financing of Terrorism.62 The strategy identified key vulnerabilities that the Group considered were faced in Jersey and noted that it was likely that these vulnerabilities would also be present in other jurisdictions. For each vulnerability identified, there was a goal, and, for each goal, a number of actions that needed to be taken towards achieving the goal.
+The goals were designed to raise awareness of:
+z obligations set out in legislation and Codes of Practice in those sectors considered to have lower awareness
+z typologies relevant to Jersey, including the risks arising from the nature of the customer base and products associated with Jersey as an international finance centre and
+z the importance of considering the competence and probity of employees at the time of recruitment and on a continuous basis thereafter.
+This strategy was reviewed and updated in 2011 to consider a new vulnerability, namely that which had emerged from the increasing tendency of banks, trust companies and others in the financial sector to seek business in new markets, including countries considered to present higher money laundering and terrorist financing risks.
+In summary, goals were set to raise awareness of:
+z statutory AML/CFT obligations in those sectors considered to have lower awareness z money laundering and financing of terrorism typologies that are relevant to Jersey
+z the importance of considering the issues involved in dealing with higher risk countries
+Money laundering and financial crime threats in Jersey are the remit of the the Jersey Financial Crime Strategy Group (JFCSG).
+Through the JFCSG, a number of AML/CFT strategies and priorities for Jersey have been identified and the JFCSG also publishes information designed to help identify the risks to
+62. Gov.je, 'An Island Strategy to Counter Money Laundering and the Financing of Terrorism 2008 (updated in 2011)', 1 October 2008: https://www.gov.je/Government/Pages/StatesReports.aspx?ReportID=1127 – accessed September 2019
+82
+
+Unit 3: National Legal and Regulatory Frameworks
+Jersey businesses in the finance sector to assist in the prevention of the laundering of the proceeds of criminal activities, e.g. Money Laundering Typologies and Trends 2015.63
+4.1.1 Legislative framework
+Jersey’s money laundering laws create five basic offences:
+z assisting another to retain the proceeds of crime
+z acquisition, possession or use of the proceeds of crime
+z tipping off
+z concealing or transferring the proceeds of crime to avoid prosecution, and z failing to disclose knowledge or suspicion of money laundering.
+The Jersey AML legislative framework64 is based on the following laws:
+z The Proceeds of Crime (Jersey) Law 1999 (the ‘Proceeds of Crime Law’), and
+z The Drug Trafficking Offences (Jersey) Law 1988 (the ‘Drug Trafficking Offences Law’).
+z Money Laundering and Weapons Development (Directions) (Jersey) Law 2012 z Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008
+The Jersey CFT legislative framework consists of the following laws.
+z The Terrorism (Jersey) Law 2002 (the ‘Terrorism Law’).
+z The Terrorism (United Nations Measures) (Channel Islands) Order 2001. Article 5 of
+the Order made it an offence for any person (except under authority of a licence)
+to make any funds or financial services available to or for the benefit of persons involved in terrorism. In addition, failure to disclose knowledge or suspicion of offences is itself an offence under Article 9 of the Terrorism Order 2001. Following the HMT v Ahmed & Others case in the UK, the Order was left vulnerable to challenge on similar grounds.
+z The Terrorist Asset-Freezing Law 2011 (see below).
+z The Al-Qaeda and Taliban (United Nations Measures) (Channel Islands) Order 2002.
+Articles 3–9 of this Order make it an offence for any person (except under authority of a licence) to make any funds or financial services (also restricted goods, technical assistance and training) available to or for the benefit of listed persons or their associates. Article 2 originally defined a listed person as being Osama Bin Laden
+or any person designated in the list maintained by the United Nations Sanctions Committee. The Order, in addition, makes it an offence not to disclose business relationships with listed persons or their associates (or with persons acting on their behalf). Moreover, failure to disclose knowledge or suspicion of offences under the Order is itself an offence.
+The Terrorist Asset-Freezing (Jersey) Law 2011 (TAF) requires that funds, financial services and economic resources are not made available to designated persons – designated because they are suspected of supporting or believed to be supporting terrorist activities.
+63. Gov.je, Money Laundering Typologies & Trends, January 2015: http://www.gov.je/SiteCollectionDocuments/Crime%20 and%20justice/R%20Money%20laundering%20typologies%20and%20trends%20Jersey%2020150115%20LB.pdf – accessed September 2019
+64. Jersey Financial Services Commission, AML/CFT Legislation: http://www.jerseyfsc.org/anti-money_laundering/ legislation.asp – accessed September 2019
+83
+
+Unit 3: National Legal and Regulatory Frameworks
+A designated person is designated on either an interim basis or a final basis:
+(a) under the Terrorist Asset-Freezing Law, or
+(b) under the Terrorist Asset-Freezing etc. Act 2010 of the United Kingdom.
+A designated person also includes a person on the list provided for by Article 2(3) of Council Regulation (EC) No 2580/2001 of 27 December 2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism.
+4.1.2 Secondary legislation
+The Money Laundering (Jersey) Order 2008 supplements the core anti-terrorist legislation by placing more detailed requirements on financial services businesses, which include among many others:
+z deposit–taking businesses
+z insurance businesses
+z investment businesses
+z company formation and administration businesses z bureaux de change
+z businesses providing trustee services z safe custody services, and
+z portfolio management and advice.
+The Community Provisions (Wire Transfers) (Jersey) Regulations 2007 introduce additional obligations for those remitting or receiving wire transfers.
+4.1.3 Jersey Handbooks
+The financial sector’s compliance with its AML/CFT obligations is supervised by the Jersey Financial Services Commission (the Commission), a statutory body corporate, and set up under the Financial Services Commission (Jersey) Law 1998.
+The Money Laundering (Jersey) Order 1999, which required financial services businesses to maintain systems and controls to forestall and prevent money laundering in their businesses, was replaced by the Money Laundering (Jersey) Order 2008. This came into force on 4 February 2008 together with revised financial sector guidance known as The Handbook for the Prevention and Detection of Money Laundering and the Financing of Terrorism (the Handbook).
+The Handbook was designed to assist financial institutions in complying with the requirements of, among others, the legislation described above and the Commission’s requirements, through practical interpretation, and to promote the use of a proportionate, risk-based approach to CDD measures, which directs resources towards higher-risk customers. Similar handbooks were produced for DNFBPs.
+4.1.4 Consequences of non-compliance
+The Commission regards compliance with the Handbook as directly relevant to the regulated status of a Jersey firm and the fitness and propriety of the firm’s principals.
+84
+
+Unit 3: National Legal and Regulatory Frameworks
+Part 3 of the Handbook states that:
+The failure of a person carrying on a financial services business (a ‘relevant person’) to comply with the requirements of the Money Laundering (Jersey) Order 2008 (the ‘Money Laundering Order’) could lead to criminal sanctions, as set out in Article 37 of the Proceeds of Crime (Jersey) Law 1999 (the ‘Proceeds of Crime Law’).65
+The Commission has available to it a variety of enforcement tools and regulatory sanctions that are equally applicable to non-compliance with the Handbook. These include the Commission’s powers to:
+z issue a public statement
+z impose a licence condition
+z impose a direction and make this public
+z object to the appointment of a principal person (or equivalent controller or manager
+of the business)
+z appoint a manager, and
+z revoke a licence to conduct business.
+If the Commission regards a breach of legislation as sufficiently serious, where it poses a threat to customers or potential customers, or to the reputation of the island, or where it casts doubt on the integrity, competence or financial standing of a relevant person or of its principal persons, or if the breach appeared to be deliberate or premeditated rather than accidental, or if the person has failed to report a material breach to the Commission, they will refer the case to the Attorney General.
+The Proceeds of Crime (Supervisory Bodies) (Jersey) Law 2008 provides the Commission with a direct power to issue codes that set regulatory requirements and to take action where there is a failure to comply.
+4.1.5 Suspicious activity reporting requirements
+Firms having to make a SAR or record matches relevant to the Terrorist Asset-Freezing Law 2011 and the Al-Qaeda and Taliban (United Nations Measures) (Channel Islands) Order 2002 must submit such report to the Jersey Joint Financial Crimes Unit (JFCU). Appendix A of the Order provides a template form for suspicious activity reports.
+4.1.6 Compliance with international AML/CFT standards
+Jersey is not a member of the EU and because of its status as a UK Crown Dependency
+is not permitted to be a member of FATF. Nevertheless, it has sought to build its good reputation through full compliance with international standards and has voluntarily transposed the requirements of the European Union Money Laundering Directives into its own law. Jersey has primarily achieved its objectives in respect of its AML/CFT strategy and the key findings from its 2008/09 IMF AML/CFT evaluation put most FATF member countries to shame. Jersey was assessed as compliant or largely compliant with 44 of the 49 FATF Recommendations and 15 of the 16 core Recommendations. Jersey is now a member of MONEYVAL and subject to MONEYVAL Mutual Evaluations.
+65. Part 3 of the Handbook, Supervision of Compliance with the Handbook, 2009 Revision.
+85
+
+Unit 3: National Legal and Regulatory Frameworks
+The findings following the MONEYVAL assessment of Jersey in 201566 were also positive, establishing, amongst other things, that:
+Jersey has made significant progress since its last evaluation by the IMF, by bringing its AML/
+CFT regime more closely in line with the FATF 40 Recommendations (2003) and 9 Special Recommendations (2004) recommendations, and by taking measures to consolidate its legal and institutional framework for combating money laundering (ML) and terrorist financing (TF). These reforms reflect the authorities’ political commitment to counter money laundering and
+the financing of terrorism, which is also embodied in the AML/CFT strategy and action plan which were developed since the last evaluation. A number of important legal changes were implemented shortly before or days after the on-site visit, bringing the legal framework to a high level of compliance with the global standards assessed in this report.
+Jersey has amended its legislation to bring both the money laundering and the financing of terrorism offences in line with the relevant international standards. Most of the previously identified shortcomings have been addressed prior to or shortly after the visit. While the FT offence has so far not been tested before the courts in Jersey, there have been several important convictions for money laundering.
+The legal framework governing provisional measures and confiscation is comprehensive and has been efficiently used in several cases regarding both proceeds of predicate offences and in respect of money laundering. However, the total confiscated sums are considered to be low.
+Jersey has very well-functioning AML/CFT coordination processes at both policy and operational levels.
+4.2 Singapore
+Singapore, in 2016, underwent the FATF Mutual Evaluation Process and the subsequent report notes strong laws but weak enforcement.67 Whilst it is recognised that the AML/CFT infrastructure is extremely sophisticated one recommendation states:
+Singapore should take steps to improve the capability of its LEAs to proactively identify and investigate ML, particularly complex and foreign predicate ML
+According to the report:
+While Singapore maintains one of the lowest domestic crime rates in the world, its status as a major global financial centre inevitably exposes it to ML/TF risks disproportionate to its domestic criminal environment...The bulk of Singapore’s exposure to ML risks arises from offences committed overseas. In particular, Singapore’s status as both a major global financial centre and an international transport hub makes it vulnerable to becoming a transit point for illicit funds generated throughout East and South East Asia. Notably, UNODC in April 2013 estimated that proceeds of crime within the Asia Pacific amount to as much as USD 90 billion, with drug trafficking and timber smuggling representing the two largest sources of illicit funds. According to Singaporean authorities, foreign predicate offences constituted 66% of all ML investigations and 27% of all ML convictions in Singapore between 2008 and 2014. Meanwhile, the amount of foreign criminal proceeds seized amounted to USD 230 million.
+66. Jersey Financial Services Commission, Report on the Fourth Assessment Visit: Anti-Money Laundering and Combating the Financing of Terrorism, 9 December 2015: https://www.jerseyfsc.org/pdf/MONEYVAL_Council_of_Europe_2015_ Report_Jersey.pdf – accessed September 2019
+67. FATF, Anti-money laundering and counter-terrorist financing measures: Singapore Mutual Evaluation Report, September 2016: http://www.fatf-gafi.org/media/fatf/documents/reports/mer4/MER-Singapore-2016.pdf – accessed September 2019
+86
+
+Unit 3: National Legal and Regulatory Frameworks
+In 2015, Singapore’s AML/CFT Steering Committee published a national AML/CFT Policy Statement.68
+This Statement, which is posted on the websites of the Ministry of Home Affairs (MHA), Ministry of Finance (MOF) and the Monetary Authority of Sinagapore (MAS), reflected long- standing policy objectives:
+i) detect, deter and prevent money laundering, associated predicate offences and terrorism financing
+ii) protect the integrity of its financial system from illegal activities and illicit fund flows.
+To achieve these policy objectives, eight principles have been identified:
+(i) allocate resources on a risk-sensitive basis
+(ii) maintain close policy and operational coordination and cooperation across the
+Government
+(iii) take a preventive approach that combines tough licensing and comprehensive
+reporting requirements, strict AML/CFT regulations, and risk-based supervision of
+the relevant financial and non-financial sectors
+(iv) enhance private sector stakeholders’ understanding of money laundering/terrorist
+financing risks and promote a culture of compliance
+(v) take decisive and deterrent law enforcement action against money laundering/
+terrorist financing
+activity, including that relating to foreign crimes
+(vi) disrupt drug dealing and other serious offences early to prevent proceeds from
+being laundered
+(vii) provide assistance to other jurisdictions through formal and informal channels
+spontaneously and on request
+(viii) rigorously implement and contribute to the development of international standards
+The law governing money laundering and terrorist financing in Singapore has undergone significant reform since the last mutual evaluation in 2008.
+The primary legislation governing AML/CFT effortsis the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (CDSA) 2000. The Terrorism (Suppression of Financing) Act is also a key piece of legislation on terrorist financing.
+The CDSA was amended in 2010 to extend the predicate offences that are covered by money laundering. The 2010 update permitted law enforcement to order banks to monitor bank accounts.
+On 7 July 2014 the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Amendment) Bill (the ‘Bill’) was passed in Parliament. The Bill amended the CDSA in the following ways:
+z It replaced the existing definition of ‘drug trafficking’ with a new definition of ‘drug dealing’ to avoid confusion with the term ‘trafficking’ as defined in section 2 of the Misuse of Drugs Act. The terms ‘drug trafficking’ and ‘drug dealing’ have different
+68. Ministry of Finance Singapore, 'Singapore's AML/CFT Policy Statement': https://www.mof.gov.sg/policies/anti- money-laundering-countering-the-financing-of-terrorism-(aml-cft)/Singapores-AML-CFT-Policy-Statement – accessed September 2019
+87
+
+Unit 3: National Legal and Regulatory Frameworks
+ambits. The existing definition of drug trafficking excludes from its ambit any act constituting a money laundering offence under the CDSA, and instead enumerates the types of money laundering that would constitute drug trafficking. The new definition of ‘drug dealing’ extends its ambit to every act constituting a drug dealing offence, which includes every type of money laundering offence under the CDSA. For the same purpose, the definition of ‘criminal conduct’ will be revised to cover every act constituting a ‘serious offence’ prescribed under the CDSA (namely, bribery, corruption, willful or fraudulent tax evasion offences, etc.) which will also expressly include the money laundering offences under the CDSA.
+z It enabled certain types of foreign tax offences to be treated as foreign ‘serious offences’, whether or not the foreign tax concerned is of a type that is imposed in Singapore.
+z Legal professional privilege was extended under the CDSA to legal counsel. Certain communications and items made, and certain documents prepared, in connection with a legal counsel giving advice to their employer or relating to any legal proceedings in which the employer is or may be a party will be subject to legal privilege.
+z A Suspicious Transaction Reporting Office was established, conferring certain additional powers on Suspicious Transaction Reporting Officers attached to that Office.
+z It refined the list of persons currently exempted from the suspicious transaction reporting requirements in section 39 of the CDSA. Persons who are exempted from section 39 will also include:
+z an arbitrator in respect of information which came to their attention in the course of any arbitral proceedings in which he acted as an arbitrator; and z a legal counsel acting as such for his employer, or an interpreter or other
+person who works under the supervision of the legal counsel, in respect of information concerning the employer which is subject to legal privilege.
+z The maximum term of imprisonment was increased for the money laundering offences from 7 to 10 years.69
+On 3 June 2015 the CDSA was further amended to include new ‘predicate offences’ as ‘drug dealing offences’ and ‘serious offences’. These include:
+z Companies Act (section 340(5)): Fraudulent trading offence which involves the carrying on the business of a company with intent to defraud creditors of the company or creditors of any other person or for any fraudulent purpose;
+z Customs Act (section 128D): Fraudulent evasion of customs duty or excise duty;
+z Income Tax Act (section 37J): Giving false information or falsifying records to assist
+another person to obtain cash payout or Productivity and Innovation Credit (PIC)
+bonus; and
+z Other Acts: Offences under the Prevention of Human Trafficking Act 2014, Remote
+Gambling Act 2014 and offences for violating the UN sanctions which are prescribed under the United Nations Act, etc.70
+69. Lexology, 'Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Amendment) Bill 2014 introduced in Parliament: fine-tuning changes to anti money laundering legislation': http://www.lexology. com/library/detail.aspx?g=42823278-2fb5-495c-94e7-e896fbc409cc – accessed September 2019
+70. Lexology, 'Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) changes: new predicate offences with effect from 3 June 2015': http://www.lexology.com/library/detail.aspx?g=3b278f03-8c3f- 4bb4-bed7-82537fa6222b – accessed September 2019
+88
+
+Unit 3: National Legal and Regulatory Frameworks
+Further, in June 2015, the New Anti-Money Laundering and Terrorism Financing provisions in the MAS (Amendment) Act71 came into force with the following provisions:
+Requirements to conduct CDD and maintain records on transactions and information have been expressly set out in the MAS Act. Detailed requirements with respect to the conduct of due diligence and maintenance of records will continue to be set out in the AML/CFT Notices issued by the MAS.
+MAS empowered to inspect, and appoint any person to inspect, financial institutions
+to determine compliance with directions issued and regulations made in respect of Singapore’s international obligations (for example, FATF requirements) and prevention of AML/CFT.
+MAS empowered to enable a public authority of a foreign country which is responsible for the supervision of foreign financial institutions in that country (AML/CFT authority) to conduct an inspection in Singapore of a financial institution over which the AML/CFT authority exercises consolidated supervision authority.
+Provisions to allow MAS to provide assistance to AML/CFT authorities of foreign countries to enable the AML/CFT authorities to carry out supervision or take supervisory action.
+The MAS regulates banks for money laundering in line with its Notice MAS 626 (updated in January 2013) which, in accordance with FATF Recommendations, contains requirements related to CDD (including when EDD is required and when some form of SDD can be applied) as well as training, compliance monitoring and suspicious activity reporting.
+In April 2008 Singapore introduced money laundering regulation of casinos for the first time. In recognition of the money laundering risks, a comprehensive AML/CFT framework has also been implemented benchmarked against the FATF Recommendations, comparable to the regimes of US and Australia. The responsibility for the regulation of the casinos and their compliance with AML is the Casino Regulatory Authority (CRA).
+On 1 July 2013 Singapore also criminalised the laundering of proceeds from certain serious tax offences. This means that financial institutions are criminally liable for money laundering if they are found to have assisted tax offenders in concealing their funds.
+The FATF 2007/08 Mutual Evaluation Report advised that Singapore’s position as the
+most stable and prominent financial centre in South East Asia, coupled with the regional history of transnational organised crime, increases the risk that Singapore is an attractive destination for criminals attempting to launder their proceeds. Singapore has increasingly become a centre for offshore private banking and asset management. The IMF ranks Singapore among the top 25 systemically important financial centres in the world. The size of the financial sector, the high volumes of transactions passing through the city-state and its broad international reach inevitably expose Singapore to money laundering and terrorist financing risks. Assets under management total approximately S$1.63 trillion (approximately $1.30 trillion).
+71. Wilson Ang, 'New Anti-Money Laundering and Terrorism Financing provisions in the Monetary Authority of Singapore (MAS) (Amendment) Act in force as of 26 June 2015', Norton Rose Fulbright, 3 July 2015: http://www. regulationtomorrow.com/asia/new-anti-money-laundering-and-terrorism-financing-provisions-in-the-monetary-authority-of- singapore-mas-amendment-act-in-force-as-of-26-june-2015 – accessed September 2019
+89
+
+Unit 3: National Legal and Regulatory Frameworks
+In January 2014 the MOF and the MAS significantly updated their view of the country’s money laundering risks through the publication of Singapore’s first National Money Laundering and Terrorist Financing Risk Assessment Report.72 The report covers 14 financial sub-sectors and eight non-financial sectors. The assessment takes into account Singapore’s economic and geographic environment, and its legal, judicial and institutional framework, as well as crime trends. Emerging risks have also been identified for further study. The country has one of the lowest crime rates in the world, so its principal exposure to money laundering and terrorist financing risks arises from offences committed overseas. Foreign predicate offences constituted 34% of all money laundering convictions between 2007 and 2011 and the amount of foreign criminal proceeds seized amounted to S$265 million. The main conduits were banks, remittance agents, shell companies (see Unit 8, section 8.1.1) and individual money mules.
+The Commercial Affairs Department (CAD), a part of the Singapore Police Force, is the agency responsible for combating financial and commercial crime in Singapore and acts as the FIU.
+The CAD’s Financial Investigation Division (FID) is responsible for the enforcement of the AML/CFT regime. The FID includes the Financial Investigation Branch, the Proceeds of Crime Unit (PCU) and the Suspicious Transaction Reporting Office (STRO), which is the section that forms the FIU, receiving SARs from financial institutions (and CTRs from casinos).
+4.3 Hong Kong
+The criminal legislation in Hong Kong relating to money laundering and terrorist financing comprises the following main laws:
+z the Anti-Money Laundering and Counter-Terrorist Financing (Financial lnstitutions) Ordinance (Cap. 615)
+z Guideline on Anti-Money Laundering and Counter-Terrorist Financing (for Authorized Institutions) (Revised in March 2015)
+z the Drug Trafficking (Recovery of Proceeds) Ordinance (DTROP),
+z the Organized and Serious Crimes Ordinance (OSCO)
+z the United Nations (Anti-Terrorism Measures) Ordinance (UNATMO).
+The 2008 FATF Mutual Evaluation identified a number of deficiencies that needed to be addressed. In particular, it found that some key CDD requirements were set out only in guidance and not legislation or other enforceable means and others were missing, e.g. there was no obligation on banks to obtain information on the purpose and nature of accounts opened with them. Hong Kong was assessed as being only partially compliant with 15 of the 49 Recommendations, including R5 CDD; R6 PEPs; R10 Record Keeping, and R29 Supervision, and non-compliant in respect of R4, which relates to DNFBPs and cross- border transactions. Hong Kong was placed under the follow-up process and was therefore required to report to FATF on its plans and actions taken to address the deficiencies.
+Following two rounds of public consultation, revised legislation, the Anti-Money Laundering and Counter Terrorist Financing (Financial Institutions Ordinance) (AMLO) was enacted
+in July 2011 and took effect on 1 April 2012. Uniform revised guidelines for financial institutions were published jointly by the financial sector regulators on 27 January 2012, i.e.
+72. Ministry of Finance Singapore, Singapore National Money Laundering and Terrorist Financing Risk Assessment Report, 2013: http://www.mof.gov.sg/portals/0/data/cmsresource/Press%20Release/2013/Singapore%20NRA%20 Report.pdf – accessed September 2019
+90
+
+Unit 3: National Legal and Regulatory Frameworks
+HKMA Guideline on Anti-Money Laundering and Counter-Terrorist Financing and the SFC Guideline on Anti-Money Laundering and Counter-Terrorist Financing. During the follow-up process, Hong Kong developed a sectoral risk-assessment methodology with application
+to a number of business sectors. As a consequence, the scope of the AML/CFT regulatory regime was extended.
+The AMLO provides powers for those supervising or investigating potential breaches of the legislation to enter premises and search, or to require information. Laws, regulations and operations of MSBs and their licensing are also covered.
+Supervision of the financial markets for Hong Kong is split between three authorities:
+z the Hong Kong Monetary Authority (HKMA) regulates institutions engaged in banking or deposit-taking activities
+z the Securities and Futures Commission (SFC) oversees the securities and futures market and regulates firms engaged in regulated activities
+z the Office of the Commissioner of Insurance regulates insurance institutions.
+In October 2012, FATF considered the 4th Follow-up Report: Mutual Evaluation of
+Hong Kong, China and determined that ‘Overall, Hong Kong has reached a satisfactory level of compliance with all of the core Recommendations; and two of the three key Recommendations. It has not yet definitely reached a satisfactory compliance with SR.III’. As a result of this assessment, FATF removed Hong Kong from the regular follow-up process, with a view to its presenting its first biennial update in October 2014.
+The following conclusion was published by FATF:
+Overall, Hong Kong, China has reached a satisfactory level of compliance with all of the core Recommendations; and two of the three key Recommendations. It has not yet definitely reached a satisfactory level of compliance with SR. III. 9. The mutual evaluation follow-up procedures indicate that, for a country to have taken sufficient action to be considered for removal from the process, it must have an effective AML/CFT system in force, under which it has implemented all core and key Recommendations at a level essentially equivalent to C or LC, taking into account that there would be no re-rating.
+The Plenary does, however, retain some limited flexibility with regard to the key Recommendations if substantial progress has also been made on the overall set of Recommendations that have been rated PC or NC. 10. Hong Kong, China has made significant overall progress since the MER. 19 Recommendations were assessed as PC
+or NC in 2008. To the extent that this can be judged in a paper-based review which does not examine effectiveness, Hong Kong, China has taken sufficient action to bring its compliance to at least a level essentially equivalent to LC on relation to 12 of those (5 of the 6 core and key Recommendations rated PC, and 7 of the 13 other Recommendations).
+Of the other recommendations remaining, overall Hong Kong, China has made considerable efforts to strengthen its AML/CFT regime since 2008 across all areas of activity, though it can not be judged sufficiently compliant with recommendations 12, 16, 24, 33 and 34, and SR III and IX. 11. It is recommended that this would be an appropriate circumstance for the Plenary to exercise
+91
+
+Unit 3: National Legal and Regulatory Frameworks
+its flexibility and remove Hong Kong, China from the regular follow-up process, with a view to having it present its first biennial update in October 2014.73
+FATF also noted in its October 2012 assessment that:
+Measures have been taken in a number of sectors to encourage DNFBPs to put in place internal AML/CFT control. However, it seems that where they exist, measures about internal AML/CFT programmes or the appointment of a compliance officer are only recommendations, and do not amount to obligations made to market players.
+In addition ‘It seems that all DNFBP sectors do not yet have in place specific sanctions applicable for failure to comply with AML/CFT obligations’.
+In respect of beneficial ownership, deficiencies still remain in that information on the companies register relates only to legal ownership as opposed to beneficial ownership, and is neither verified nor necessarily reliable.
+In April 2013 the HKMA announced that it was doubling the size of its AML team to strengthen supervision. The new AML Ordinance, which came into effect in April 2012, provides the HKMA with new powers to prosecute or discipline banks for AML breaches, including fines of up to HK$1 million and revoking licences. The Hong Kong regulator had previously faced criticism for never having taken any disciplinary actions against banks for breaching money laundering obligations.
+The FIU in Hong Kong, the Joint Financial Intelligence Unit, was set up in 1989 and it is staffed from the police and customs services. It does not investigate money laundering cases itself but collects and analyses SARs, passing on potential cases to the relevant investigative agency. Statistics show an increased trend in money laundering cases, with numbers rising from 179 in 2007 to 360 in 2010.
+A high-profile ‘public’ case of alleged money laundering involved the arrest of Carson Yeung, who was president and largest single shareholder of Birmingham City Football Club. Yeung was charged with laundering more than HK$720 million: charges that he denied. The case involved five counts of dealing in property known or believed to represent proceeds of an indictable offence.
+Yeung was jailed for six years in March 2014 after being found guilty of five counts of money laundering between 2001 and 2007.
+Hong Kong is a US country of primary concern and the 2014 US State Department INCSR74 advises that:
+As of December 2013, Hong Kong’s stock market was the world’s sixth largest with $3.1 trillion in market capitalisation. Already the world’s eighth largest banking centre in terms of external transactions and the fifth largest foreign exchange trading centre, Hong Kong has continued its expansion as an offshore Renminbi (RMB) financing centre, accumulating the equivalent of over $136.6 billion in RMB-denominated deposits at authorised institutions.
+73. FATF, 4th Follow Up Report: Mutual Evaluation of Hong Kong, China, 19 October 2012: http://www.fatf-gafi.org/ media/fatf/documents/reports/Follow%20up%20report%20MER%20Hong%20Kong%20China.pdf – accessed September 2019
+74. US Department of State, '2014 International Narcotics Control Strategy Report': https://2009-2017.state.gov/j/inl/ rls/nrcrpt/2014/index.htm – accessed September 2019
+92
+
+Unit 3: National Legal and Regulatory Frameworks
+Hong Kong’s low tax rates and simplified tax regime, coupled with its sophisticated banking system, shell company formation agents, free port status and the absence of currency and exchange controls, presents vulnerabilities for money laundering, including trade-based money laundering. Casinos are illegal in Hong Kong. Horse races, a local lottery and soccer betting are the only legal gaming activities, all under the direction of the Hong Kong Jockey Club (HKJC), a non-profit organisation. The HKJC’s compliance team collaborates closely with law enforcement to disrupt illegal gambling outlets. Government of Hong Kong officials indicate the primary sources of laundered funds in Hong Kong, derived from local and overseas criminal activity, are illegal gambling, fraud and financial crimes, loan sharking, smuggling and vice. They attribute a relatively low percentage of laundered funds to drug trafficking organisations.
+4.4 India
+India’s primary AML legislation is the Prevention of Money Laundering Act 2002. It was enacted in 2003 and came into effect in 2005. It was subsequently amended in 2009. The law was passed to combat money laundering and to provide for the confiscation of property derived from money laundering.
+The Indian legislation is not an ‘all crimes’ money laundering law as criminal offences are codified into the Indian Penal Code. Nonetheless, the list of crimes covered by the law is extensive and includes:
+z waging war illegally
+z making or possessing counterfeit currency
+z drugs-related offences
+z illegal possession of explosive substances
+z unlawful activities (terrorism-related offences) z all types of dishonesty
+z possession or trafficking of illegal arms
+z wildlife poaching and trafficking
+z human trafficking
+z corruption
+z customs offences
+z human organ offences
+z copyright offences
+z environmental crimes.
+The Reserve Bank of India (RBI) is the primary regulatory authority and has issued detailed requirements for institutions via its circulars on:
+z CDD
+z training, and z SAR reporting.
+The RBI’s ability to enforce penalties for violations of money laundering and terrorist financing requirements is derived from the Banking Regulations Act. In June 2013, the RBI fined the country’s top three private lenders – ICICI Bank, HDFC Bank and Axis Bank – for violating its know your customer (KYC) instructions and AML guidelines. RBI carried out a scrutiny of the books of account, internal controls, compliance systems and processes of the banks before reaching is decision. This action was swiftly followed in July that year with
+93
+
+Unit 3: National Legal and Regulatory Frameworks
+fines imposed on a further 22 banks, including State Bank of India, Bank of Baroda and Canara Bank, for similar AML beaches. Cautionary letters were sent to seven other banks, including Standard Chartered, Barclays and Citibank.
+More recently, the RBI imposed, on 12 December 2017, a fine of Rupees 50 million on Syndicate Bank for, amongst other failings, non-compliance with the directions/guidelines issued by the RBI relating to KYC/AML.
+The Financial Intelligence Unit – India (FIU-IND) was set up in 2004 and is an independent body that reports directly to the Economic Intelligence Council headed by the finance minister. FIU-IND is a central agency of the government that:
+z receives financial information, pursuant to the country’s AML laws
+z analyses and processes such information, and
+z disseminates the information to appropriate national and international authorities,
+to support AML efforts.
+FIU-IND is also responsible for coordinating and strengthening efforts of national and international intelligence and enforcement agencies in pursuing the global efforts against money laundering and related crimes. FIU-IND is not a regulatory authority. Its primary responsibility is to gather and share financial intelligence in close cooperation with the regulatory authorities, including the RBI, the Securities and Exchange Board of India (SEBI) and the Insurance Regulatory and Development Authority (IRDA).
+India is one of FATF’s more recent members, having been admitted only in 2010, and has needed to make a huge leap in legislative, cultural and compliance terms in order to qualify for this position. While the 2010 Mutual Evaluation Report assessed India as non-compliant only with requirements for DNFBPs, full compliance had only been achieved in respect of Recommendation 4 – Secrecy laws. India was placed under a regular follow-up process because of its partially compliant ratings in respect of a number of core and key FATF Recommendations.
+Since that time India has made significant changes to its legal framework and has worked to implement an effective AML/CFT regime. In November 2012, the Lok Sabha (lower house of Parliament) unanimously passed amendments to the Prevention of Money Laundering Act (PMLA). In December 2012, the Rajya Sabha (upper house) also passed the amendments. These amendments widen the definition of money laundering and are designed to bring domestic law into line with international standards.
+In June 2013 FATF approved the eighth follow-up report for India by the Asia Pacific Group on Money Laundering (APG), and determined that the country had substantially addressed the deficiencies in its regulatory framework and so removed it from the follow-up process. APG and FATF confirmed that since the adoption of its Mutual Evaluation Report in 2010, India had focused its attention on:
+z rectifying all the technical deficiencies identified with respect to the criminalisation of money laundering and terrorist financing and implementing effective confiscation and provisional measures
+z substantially addressing technical deficiencies in CDD and other preventative measures z further enhancing its outreach programme, providing guidance to the financial
+sector on the suspicious transaction reporting obligations and engaging in extensive compliance monitoring
+94
+
+Unit 3: National Legal and Regulatory Frameworks
+z bringing several types of DNFBPs within the scope of the AML/CFT measures.
+The report on the progress made in India75 indicated that the number of money laundering investigations in India had increased from 798 at the end of 2009 to 1,561 on 30 April 2013. In addition, the number of persons accused of terrorist financing and the number of cases under investigation had also increased to 470 and 143 respectively as of 31 March 2013.
+While there have not been a large number of major money laundering cases to date, action has commenced in a number of fairly high-profile cases.
+Despite improvements made to the legislative and regulatory regimes, India is considered to present a high risk of laundering according the US INSCR 2016 report:
+India is a regional economic power and financial center with both formal and informal financial systems. India’s extensive informal economy and remittance systems, persistent corruption, onerous tax administration, and currency controls contribute to its vulnerability to economic crimes that include fraud, cybercrime, identity theft, money laundering, and terrorism financing. India’s porous borders and geographic location between heroin-producing countries in the Golden Triangle of Southeast Asia and Golden Crescent of Central Asia make it a frequent transit point for narcotics trafficking. Proceeds from Indian-based heroin traffickers are widely known to re-enter the country via bank accounts, the hawala system, and money transfer companies. The high degree of corruption in Indian society generates and conceals illicit proceeds. The most common money laundering methods include opening multiple bank accounts to hide funds, intermingling criminal proceeds with assets of legal origin, purchasing bank checks with cash, and routing funds through complex legal structures. Transnational criminal organizations use offshore corporations and trade-based money laundering (TBML) to disguise the criminal origin of funds, and companies use TBML to evade capital controls. Illicit funds are also sometimes laundered through real estate, educational programs, charities, and election campaigns. Laundered funds are derived from narcotics trafficking, trafficking in persons, and illegal trade, as well as tax avoidance and economic crimes. Counterfeit Indian currency is also a problem, as criminal networks exchange high-quality counterfeit currency for genuine notes. India remains a target of foreign and domestic terrorist groups. Several indigenous terrorist organizations coexist in various parts of the country; some are linked to external terrorist groups with global ambitions. Terrorist groups often use hawala and currency smuggling to move funds from external sources to finance their activities in India. Indian authorities report they have seized drugs for sale in India purchased by India-based extremist elements from producers and/or trafficking groups in neighbouring countries.
+4.5 United Arab Emirates (UAE)
+Following work with FATF (and having been subject to other international pressure) the UAE has continued to enhance its AML/anti-terrorist financing laws and regulations.
+The history of legislation and regulations in the UAE is summarised below.
+1987 – Federal Law includes money laundering in the Penal Code.
+1993 – Central Bank regulation covers account-opening requirements (included prohibition
+of opening accounts for charities unless suitably approved).
+75. FATF, 'Mutual Evaluation of India: 8th Follow-up report & Progress Report on Action Plan',
+June 2013: http://www.fatf-gafi.org/documents/documents/india-fur-2013.html – accessed September 2019
+95
+
+1998 – 2000 –
+2000 –
+2001 –
+2001 –
+2002 – 2002 –
+2002 –
+2003 – 2003 –
+2004 – 2004 – 2008 –
+2018 – 2019 –
+Central Bank Regulation deals with detection of transactions whose size is not commensurate with the income of the individual and require reports of these to the Central Bank.
+Establishment in the Central Bank of the Anti Money Laundering and Suspicious Cases Unit (AMLSCU), which is the Bank’s FIU, and of the National Anti Money Laundering Committee under the chair of the Governor of the Central Bank.
+The Central Bank issues further regulations to banks and other financial institutions including those on CDD, SAR filing and examination of Letters of Credit.
+The Central Bank requires money changers to carry out CDD on money changed in excess of $500.
+The National AML Committee issued a letter to Free Trade Zones to apply appropriate due diligence on firms wishing to set up in such zones.
+Regulations introduced for cash importations to the UAE.
+Federal Law No 4 criminalises money laundering by including a list of predicate offences. The AML Law also establishes the FIU within the UAE Central Bank as the ‘Anti-Money Laundering and Suspicious Cases Unit’ (AMLSCU) and requires that suspicious transactions are reported to this unit.
+The UAE government accepts the need for scrutiny of ‘near cash’ items such as gold and gemstones and begins the Kimberly Process (KP) certification, which allows Customs to seize or return diamonds that are not KP certified.
+Regulations are passed for the registration of Alternative Remittance Services providers (called hawaladars in the UAE) and their need to report certain transactions. Regulations are issued to insurance companies, accountants and auditors on CDD requirements.
+The Federal Law on money laundering is applied to Free Zones.
+The Federal Law on combating terrorism and the offences is enacted. Enhancements are made to the CDD requirements of the 2000 regulations specifically in relation to beneficial ownership, monitoring, wire transfers, PEPs, correspondent banking, high-value-goods dealers (e.g. auctions, real estate dealers). The Federal Law on AML and CFT and financing of illegal organisations
+Procedures for anti-money laundering and combating the financing of terrorism and illicit organisations.
+Unit 3: National Legal and Regulatory Frameworks
+The principal supervisory authority in the UAE as a whole is the Central Bank. The Dubai Financial Services Authority (DFSA) is a second regulatory authority with a remit covering the Dubai International Financial Centre (DIFC). The DFSA is the lead regulator and receiver of SARs in the DIFC but it is obliged to copy all SARs to the Anti-Money Laundering Suspicious Case Unit (AMLSCU) in the Central Bank. The investigation of money laundering cases rests with the relevant law enforcement agency (e.g. police, customs) and there is in addition a central investigative body.
+Increasing numbers of money laundering cases are being taken to the courts in the UAE and other areas of the Middle East. In December 2010 the Dubai Police, together with international agencies, arrested 16 people involved in drug trafficking and the laundering of the proceeds of this activity. This cooperation resulted in arrests being made in the UAE, the UK, Italy and Australia. Three of these arrests were in Dubai, including the ringleader and two of his close associates.
+The 2007/08 Mutual Evaluation by MENAFATF (the Middle East and North Africa Financial Action Task Force, a FATF-Style Regional Body) concluded that, in the UAE, large-scale cash activity can provide a cloak for money laundering activity. Law enforcement activity has
+96
+
+Unit 3: National Legal and Regulatory Frameworks
+identified a growing trend within the UAE in the use of professional launderers and other third parties to launder criminal proceeds. The report advised that:
+The authorities have taken positive initiatives to address the issue of hawala dealers, and have introduced a voluntary system of registration and reporting. The central
+bank intends progressively to formalise its oversight regime for this sector, which is
+to be welcomed.
+The UAE has an extensive offshore financial centre, with 45 free trade zones (FTZs),
+(with a further nine under construction at the time of writing in August 2019) and two financial free zones. With over 5,000 multi-national companies located in such FTZ’s in addition to thousands more individual trading companies, entities located in the FTZ’s are considered offshore or foreign entities for legal purposes and whilst UAE law prohibits the establishment of shell companies and trusts, the operations of companies in FTZs that are not identified, supervised or regulated activity present a gap in regulatory oversight.
+97
+
+Unit 3: National Legal and Regulatory Frameworks
+Learning objectives
+By the end of this unit you should:
+z understand the basic requirements of the FATF standards and 40 Recommendations, and how and why these have developed as they have
+z appreciate the differences between primary and secondary legislation and the various kinds of guidance published in major financial centres
+z be able to outline the general legal and regulatory requirements within domestic legislation in a range of countries, namely the US, the UK, Singapore, Hong Kong, India and the UAE
+z appreciate the impact that US legislation such as the BSA and the Patriot Act can have in other jurisdictions, i.e. US extraterritoriality
+z understand how knowledge of enforcement actions is valuable to MLROs and be able to cite examples.
